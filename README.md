@@ -51,7 +51,3 @@ This project is a simple CRUD (Create, Read, Update, Delete) application develop
 
 - Name: [Dzaky Muhammad Baihaqi]
 - Bootcamp: Purwadhika Bootcamp [JCDS BATCH 2405]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
